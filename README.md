@@ -22,6 +22,8 @@ NOTE: This requires `wasm-ld`
 Please install wasm-ld
 ```
 
+See also: https://github.com/lbguilherme/crystal-web/issues/4
+
 ## Contributing
 
 1. Fork it (<https://github.com/your-github-user/crystal-web-example/fork>)
