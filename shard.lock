@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  js:
+    git: https://github.com/lbguilherme/crystal-js.git
+    version: 0.1.0+git.commit.8f63702dd3cc5e79935c829c5e742cb0579dae48
+
+  web:
+    git: https://github.com/lbguilherme/crystal-web.git
+    version: 0.1.0+git.commit.6b7b5bb09048234cfb221699a033ef7d5a27cdc8
+
